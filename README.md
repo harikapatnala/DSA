@@ -6,6 +6,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harikapatnala/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0525-contiguous-array](https://github.com/harikapatnala/DSA/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/harikapatnala/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harikapatnala/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/harikapatnala/DSA/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/harikapatnala/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harikapatnala/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
