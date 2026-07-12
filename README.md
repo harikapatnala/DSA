@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harikapatnala/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/harikapatnala/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/harikapatnala/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/harikapatnala/DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harikapatnala/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -12,6 +13,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harikapatnala/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/harikapatnala/DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harikapatnala/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
@@ -32,19 +34,23 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harikapatnala/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/harikapatnala/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harikapatnala/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harikapatnala/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/harikapatnala/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harikapatnala/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/harikapatnala/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harikapatnala/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/harikapatnala/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +63,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/harikapatnala/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harikapatnala/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/harikapatnala/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
