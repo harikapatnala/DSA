@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harikapatnala/DSA/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/harikapatnala/DSA/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/harikapatnala/DSA/tree/master/0692-top-k-frequent-words) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/harikapatnala/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
