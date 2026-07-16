@@ -29,6 +29,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/harikapatnala/DSA/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/harikapatnala/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/harikapatnala/DSA/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -87,4 +88,9 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/harikapatnala/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/harikapatnala/DSA/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/harikapatnala/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
