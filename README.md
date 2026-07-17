@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harikapatnala/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/harikapatnala/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/harikapatnala/DSA/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/harikapatnala/DSA/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harikapatnala/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/harikapatnala/DSA/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/harikapatnala/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/harikapatnala/DSA/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
@@ -65,6 +67,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harikapatnala/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harikapatnala/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harikapatnala/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/harikapatnala/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/harikapatnala/DSA/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
